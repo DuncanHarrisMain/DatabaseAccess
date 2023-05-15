@@ -1,0 +1,13 @@
+{
+    "name": "revisioncoding/database-access",
+    "authors": [
+        {
+            "name": "RevisionCoding"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require":
+    {
+        "ext-mysqli": "*"
+    }
+}
